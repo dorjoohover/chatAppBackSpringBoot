@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://dorjoohover:dorjooX0@cluster0.lg7cc.mongodb.net/?retryWrites=true&w=majority
+      database: ChatApp
